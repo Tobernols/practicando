@@ -120,7 +120,7 @@
 		</article>
 	</div>
 	<div class="piedepagina">
-       <p style="text-align: center;"> Ubiquenos en Jr.Shashuyacu S/N Pongo de Caynarachi  Celular:947503925 </p>
+       <p style="text-align: center;"> Ubiquenos en Jr.Rioja S/N Pongo de Caynarachi  Celular:947503925 </p>
       </div>
 </main>
 </body>
